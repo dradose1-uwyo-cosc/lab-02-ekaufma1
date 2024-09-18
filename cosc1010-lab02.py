@@ -1,9 +1,9 @@
-# Your Name Here
+# Eleanor Kaufman
 # UWYO COSC 1010
-# Submission Date
+# 09-18-24
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 15
+# Sources, people worked with, help given to: none
 # your
 # comments
 # here
